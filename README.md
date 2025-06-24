@@ -40,3 +40,4 @@ Control your presentation slides seamlessly using only your hand gestures with t
 - Arrange the files in such a way that it is in this order
 Gesture Presentation/Presentation/whatsapp images
 and also main.py and tempcoderunner.py should be under the Gesture Presentation folder.
+- Run main.py file in any compiler. Make sure to have cvzone, mediapipe, opencv and python installed in your system.
