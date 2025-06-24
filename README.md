@@ -33,3 +33,10 @@ Control your presentation slides seamlessly using only your hand gestures with t
 - CVZone's `HandDetector` identifies fingers and landmarks.
 - Custom logic maps gestures to slide navigation and annotation.
 - Annotations are drawn in real-time using finger tracking.
+
+## How to run it and place the files.
+
+- Download the files provided in the repository.
+- Arrange the files in such a way that it is in this order
+Gesture Presentation/Presentation/whatsapp images
+and also main.py and tempcoderunner.py should be under the Gesture Presentation folder.
